@@ -123,9 +123,8 @@ This project was developed as part of the **SDAIA Academy** training program.
 ## 🔗 Repository Link
 
 [https://github.com/ialshaiban/PythonApplication333](https://github.com/ialshaiban/PythonApplication333)
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
+
+GitHub Repository Link
+GitHub Repository Link
+GitHub Repository Link
+
